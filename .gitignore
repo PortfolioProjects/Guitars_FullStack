@@ -1,6 +1,6 @@
-/node_modules
+node_modules
 /build
-/client/node_modules
+client/node_modules
 
 .DB_Store
 .env
@@ -13,3 +13,5 @@ package-lock.json
 yarn.lock
 /client/package-lock.json
 /client/yarn.lock
+
+.vscode
